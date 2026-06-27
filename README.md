@@ -6,7 +6,7 @@ Projeto acadêmico de desenvolvimento web construído com Vue.js 3. Trata-se de 
 
 * **Produção (Vercel):** [Acessar Loja Retro FC](https://retro-fc.vercel.app/)
 * **API Pública (Render):** [Acessar JSON Server](https://api-retro-fc.onrender.com)
-* **Repositório (GitHub):** [Acessar Código-Fonte](https://github.com/gabxnz/dev-web-turma-b/tree/main/Gabriel%20Costa/Projeto%20final)
+* **Repositório (GitHub):** [Acessar Código-Fonte](https://github.com/gabxnz/Retro-FC)
 
 ---
 
